@@ -1,0 +1,7 @@
+Firstly open cmd using run or start
+Then type set path="C:\Program Files\Java\jdk1.8.0_221\bin"
+Basically where you have installed java then jdk in it then the bin
+For eg if its in E then E:\Java\jdk1.8.0_221\bin
+Then write the java file as javac Hello_World.java 
+then write java Hello_World 
+and then it will run your java file in CMD
