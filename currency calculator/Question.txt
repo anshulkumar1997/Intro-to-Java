@@ -1,0 +1,30 @@
+currency calculator
+Write a program to convert dollars into Indian money.
+
+The currency calculator is capable of converting only USA, Canada, Singapore and Hong Kong dollars to INR.
+
+Prompt the user to enter the Currency code and the amount to be converted. Display the result as given in the sample output.
+
+Note the currency code and exchange rate for the countries
+
+{Canada –CAD, 52.08} , {Hong Kong – HKD, 8.86}, {Singapore – SGD, 51.29} {USA – USD, 69.55}
+
+Sample input 1
+Enter the currency code
+
+HKD
+
+Enter the amount
+
+3400
+
+Sample output 1
+
+Hong Kong dollar 3400 equals to 30124.00 Indian Rupee
+
+Sample input 2
+AED
+
+Sample output 2
+
+Currency code not found

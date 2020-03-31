@@ -1,0 +1,33 @@
+Multiplying adjacent numbers
+Write a program that prints a sequence of numbers by slightly modifying the Fibonacci series. The series of numbers is created by multiplying adjacent numbers instead of adding them. Prompt the user to enter the starting number and the number of terms.
+
+Also write code to check the following conditions
+
+whether the first number entered by the user is greater than or equal to the second number. If so display "Invalid Input", else get the number of terms.
+
+Out of three inputs check whether each input value is greater than 0. 
+
+If first input value entered is less or equal to 0 then display "Invalid Input" else get the 2nd input value. 
+
+If second input value entered is less or equal to 0 then display "Invalid Input" else get the 3rd input value. 
+
+If third input value entered is less or equal to 0 then display "Invalid Input" else print the required terms. 
+
+Sample Input
+
+Enter the first number:
+
+2
+
+Enter the second number:
+
+3
+
+Enter the number of terms:
+
+4
+
+Sample output
+
+2, 3, 6, 18, 108, 1944
+
