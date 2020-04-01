@@ -1,0 +1,8 @@
+Banner Display
+Cathy wants to display a banner with the text “Have a wonderful day” in front of her shop, so that she could see a smile on the face of each passerby.
+
+Write a program to display Cathy’s message
+
+Sample output
+
+Have a wonderful day
